@@ -1,0 +1,38 @@
+html {
+    background-color: #E6C289;
+}
+
+h1 {
+    text-align: center;
+    color: #203C2D;
+    font-family: 'Cambria';
+    font-size: 40px;
+}
+
+h2 {
+    color: #203C2D;
+}
+
+p {
+    color: #203C2D;
+}
+
+.flag {
+    height: 100px;
+    width: 150px;
+    box-shadow: 10px 5px 5px black;
+}
+
+.other-image {
+    float: right;
+    height: 200px;
+    width: 300px;
+}
+
+audio {
+    height: 50px;
+    width: 300px;
+}
+
+
+
